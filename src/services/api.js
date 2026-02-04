@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'https://backendapi2026.onrender.com/';
+const BASE_URL = 'wedstd.huaiyot.ac.th';
 
 const api = axios.create({
     baseURL: BASE_URL,
